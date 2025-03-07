@@ -17,15 +17,9 @@ Shape Calculator is an Android application designed to calculate the area and pe
 - Lightweight and efficient performance.
 
 ## 🛠️ Technologies Used
-
 - **Programming Language:** Java
 - **Development Environment:** Android Studio
 - **User Interface:** XML
-- **Database (if needed):** SQLite
-
-## 📷 Screenshots
-
-
 
 ## 🔧 Installation Guide
 
